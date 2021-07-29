@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: dridi family
+Build-Jdk: 14.0.2
+Implementation-Title: DynamicDashboardTool
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.dynamic_dashboard_tool
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/DynamicDashboardTool
+Created-By: Maven Integration for Eclipse
+
