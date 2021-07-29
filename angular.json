@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "DynamicDashboardTool"
+    }
+  },
+  "defaultProject": "DynamicDashboardTool",
+  "cli": {
+    "analytics": false
+  }
 }
